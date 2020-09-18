@@ -1,0 +1,29 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "ursl",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Glaucio Daniel/Isaac Angelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaac-angelo/cursonode.git"
+  }
+}
